@@ -1,0 +1,6 @@
+{
+  "name": "@repo/fetch-list",
+  "exports": {
+      "./getData": "./src/list.tsx"
+  }
+}

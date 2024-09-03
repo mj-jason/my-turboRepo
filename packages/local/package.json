@@ -1,0 +1,7 @@
+{
+  "name": "@repo/local",
+  "exports": {
+    "./base": "./base.tsx",
+    "./getLocal": "./getLocal.tsx"
+  }
+}
